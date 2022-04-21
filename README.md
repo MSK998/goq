@@ -2,6 +2,8 @@
 
 Golang Queue Manager package limits the number of goroutines that are allowed to run concurrently.
 
+Forked from goccm
+
 ### Installation
 
 Run the following command to install this package:
